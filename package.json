@@ -1,0 +1,23 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gribbler25/zookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gribbler25/zookeeper/issues"
+  },
+  "homepage": "https://github.com/gribbler25/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
