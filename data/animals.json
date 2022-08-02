@@ -117,6 +117,15 @@
         "hungry, antsy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Sally",
+      "species": "Tarantula",
+      "diet": "bi-curious",
+      "personalityTraits": [
+        "antsy, twinkle"
+      ],
+      "id": "12"
     }
   ]
 }
