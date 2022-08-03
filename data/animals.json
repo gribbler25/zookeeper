@@ -126,6 +126,15 @@
         "antsy, twinkle"
       ],
       "id": "12"
+    },
+    {
+      "name": "Gerry",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
     }
   ]
 }
